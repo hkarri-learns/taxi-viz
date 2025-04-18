@@ -1,0 +1,4 @@
+pandas>=1.0.0
+requests>=2.0.0
+pyarrow>=5.0.0
+google-cloud-storage>=2.0.0
