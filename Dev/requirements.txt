@@ -1,0 +1,6 @@
+pandas>=1.0.0
+requests>=2.0.0
+pyarrow>=5.0.0
+google-cloud-storage>=2.0.0
+pyspark>=3.0.0
+fastparquet>=0.5.0
