@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "argon-tractor-456103-i7",
+  "private_key_id": "88dd3a369200956c1f3723f829e4f4ff0938165d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDY0Wh6jFTaEHPy\nWLWBkqISNsGlZloFWYIBxb0GKLQeeJaoqfyiVtpyEdhmpShHd2UuqXnpj8uujEj4\nGaf+Vv+jKAl+fcPkFtYAcBZCdS3oikny9Ecrgql4ysXBT5VMfGcPL0NxDoAWh4O5\nxgpghck+fWBOPa2Ou8i4WHzv+RbyQCFjtGgXORkdlSwljdwjLY1M1Mp3efuizb0a\nGLPMAdb0hYNZjyAQXlncS4+IM0LnHOCMYgtUqwZ+oAMura5UcJimGgK1+OncFpo8\n86jEd6QCKpuX4/YHKdZWW2Ui16Qm4Fpoy+sPWG98rQIXfjXelQzvAackPsUg/t3n\ney32EP9PAgMBAAECggEAFLSGwDE3hy2MDQgoqSuKG6gr/PIVxa4DCs1J3FU1wjUs\n2gWFsTEPIlaO7lp2SsDdokOf90x6nHwcGclFcDX5qqiPo4s6EkWWASuzDHypOiw+\nnJt0UnTjXzwp/2hsrwWwR9RxIdJLLBub2jlN02LjUXrioAYm1Vscc3JL2BTW+qI1\nLii0uZif36gzoXuX84p3MuO6iZtBbgDHr3G+oqkes80OjNhv7LQXoFDZfhn+Yse2\n77kJnDvrJ1xdMX12xqvmke3tyZa0BELuddoJeFZz2Gav2/8rgY5pP20xLcF4ezWt\nFaLddbgp5fEoA73EhP8cz6EXXuvk+Hen7m3o2RA8wQKBgQDt8SKd1psO86G2n/Y7\nOcDohjVhjYXe9wTF8ZFVX7HNDBnbjv2Na3mnk0+uguLkMKKBE6x+4r8rNGHvPKGR\npszSt+U27uTEqMtZ5oXWNdw8xE9NUcqUFRJN5MukV9G1s51iEu5TJX2n+nt/hjo+\n2lOlnj5DbWjb4WndhZ+M7KcvjwKBgQDpRd2cbVo4s5dUpcuZqo7J+/xEBl6/iqoT\nMGfehN2DFx9qcFBMggBQV+UANlvdV26/SuW4Z/W9VipW3vq8u0YskQawGume9CPE\n/9WlI0wvOqT0Ii8VDoDep/y9DWzgx+Lk5J+4vF0oPjqCwXWxpwdt89pbeLDlp4kK\nheaz6k1UQQKBgQCDwK8bWRbZC5yy5BZTKyKfXpk2YEgNcxhoht+jt25bjOTQh3fs\nk+N0IATSK9V451lEQeGVDPcv9Dx6XUdVwFfQIlXAuj1gi9q1+AiJ2Z8O4uDKfoy+\nvIA7M4JziNEtXLy77qGa1rqihfdWYLvly7zfiyUM7wtOHZ4iNHhpby0QDwKBgBic\nGE8icjw9Jh/2Bc7GYZ4JiYmbqm9Gr76qgqrFFaF41QWjp7UKmgHf4/brxTFKwhJI\nUofr388Dwh+8EnPKxhJ5kl0N2cu9MfDclKuBV847v59J4/GywAG9czp2qh/ktpkz\nTW5t4N4YApA83K/LUUtWSJkR2IfB7wE/MyGT/GiBAoGAQOyDvbsi0V0GDy7IcQNG\nIYyQzgQCFJdJi2cSkTI2ZqAPGrtKS8x+NAXIRJRsLHMv1IOnYQc0FkH/W5sagHRJ\n1hST2X2QbhrYKoVaGkWxUfhkO2G3xTNxYc7ukC6LYcnNTI1CVN3sDQDY39cmkHNi\nuTg2kikG3sZWHBM7eYad2+c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bq-serviceaccount@argon-tractor-456103-i7.iam.gserviceaccount.com",
+  "client_id": "106647848887898686400",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bq-serviceaccount%40argon-tractor-456103-i7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
