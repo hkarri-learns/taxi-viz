@@ -1,0 +1,20 @@
+CREATE OR REPLACE TABLE nyctaxidata.FACT_TAXI_TRIP(
+  trip_id STRING NOT NULL,
+  vendor_id INT64,
+  rate_code_id INT64,
+  pickup_location_id INT64,
+  dropoff_location_id INT64,
+  datetime_id STRING,
+  payment_type_id INT64,
+  store_and_fwd_flag STRING,
+  passenger_count INT64,
+  trip_distance FLOAT64,
+  fare_amount FLOAT64,
+  extra FLOAT64,
+  mta_tax FLOAT64,
+  improvement_surcharge FLOAT64,
+  tip_amount FLOAT64,
+  tolls_amount FLOAT64,
+  total_amount FLOAT64,
+  trip_duration_minutes FLOAT64
+)
