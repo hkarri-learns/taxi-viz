@@ -73,19 +73,18 @@ We use the official **NYC Yellow Taxi Trip Records** provided by the NYC Taxi an
   - Fare vs. trip distance correlations
   - Pickup and dropoff hotspots via geospatial clustering
 - **Looker dashboards** provide filters by time, borough, vendor, and payment type.
-
----
-
-## 🧭 Sample Looker Visualizations
-
-![Data Flow and Schema](https://github.com/user-attachments/assets/f45f2b71-618d-433e-8df3-41e52e5fad5e)
-
-Explore:
+- Explore:
 - Pickup/Dropoff heatmaps
 - Fare distributions by rate code
 - Tipping behavior by borough
 - Hourly demand and average fare trends
 - Vendor share and performance KPIs
+
+---
+
+## 🧭 Data Modelling
+
+![Data Flow and Schema](https://github.com/user-attachments/assets/f45f2b71-618d-433e-8df3-41e52e5fad5e)
 
 ---
 
